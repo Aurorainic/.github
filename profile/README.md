@@ -14,7 +14,7 @@
 
 - 🧩 **自托管实践**  
   Chevereto · Misskey · Matrix · Flarum · FreshRSS · Gotify · Uptime Kuma  
-  联邦宇宙（Misskey / Foundkey / Mastodon） · Matrix（Element-web） ·
+  联邦宇宙 · Matrix ·
 
 - 🐧 **Linux 桌面探索**   
 
