@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aurorainic
 
-热衷于 **自托管服务** 与 **Linux 桌面环境探索** 的技术爱好者。
+热衷于 **自托管服务** 与 **Linux 桌面环境** 的技术爱好者。
 
 ![Self-Hosting](https://img.shields.io/badge/-Self--Hosting-181717?logo=homeassistant&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
@@ -12,16 +12,12 @@
 
 ## 🛠 我的关注
 
-- 🧩 **自托管实践**  
+- 🧩 **自托管实践**
+  主要从 ``selfh.st`` 找项目 
   Chevereto · Misskey · Matrix · Flarum · FreshRSS · Gotify · Uptime Kuma  
   联邦宇宙 · Matrix ·
 
-- 🐧 **Linux 桌面探索**   
+- 🐧 **Linux 桌面探索**
 
 - ⚙️ **工具链与运维**  
   Docker · Coolify · 1Panel · Tailscale · Cloudflare · Nginx  
-
----
-
-🌐 个人主页：[aurorainic.top](https://aurorainic.top)  
-🔐 GPG：`09738E8F90D3D7AF0A8FCBBAA901DBFCBC6E9B74`
